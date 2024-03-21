@@ -21,7 +21,7 @@ build-gradle-triplet-play = "3.9.0"
 androidx-core = "1.12.0"
 androidx-lifecycle-runtime = "2.7.0"
 androidx-activity-compose = "1.8.2"
-androidx-compose-bom = "2024.02.01"
+androidx-compose-bom = "2024.03.00"
 
 test-junit = "4.13.2"
 test-androidx-junit = "1.1.5"
