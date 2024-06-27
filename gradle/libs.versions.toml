@@ -27,7 +27,7 @@ androidx-lifecycle = "2.7.0" # Do not upgrade tp 2.8.x until b/346808608 is reso
 
 test-junit = "4.13.2"
 test-androidx-junit = "1.1.5"
-test-androidx-espresso = "3.5.1"
+test-androidx-espresso = "3.6.1"
 
 [plugins]
 dependencyAnalysis = { id = "com.autonomousapps.dependency-analysis", version.ref = "build-gradle-dependencyAnalysis" }
