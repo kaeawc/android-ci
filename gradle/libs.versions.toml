@@ -23,7 +23,7 @@ build-cargo = "0.1.0"
 androidx-core = "1.13.1"
 androidx-activity-compose = "1.9.0"
 androidx-compose-bom = "2024.06.00"
-androidx-lifecycle = "2.7.0" # Do not upgrade tp 2.8.x until b/346808608 is resolved. 2.8.2 still has the crash
+androidx-lifecycle = "2.8.3" # Do not upgrade tp 2.8.x until b/346808608 is resolved. 2.8.2 still has the crash
 
 test-junit = "4.13.2"
 test-androidx-junit = "1.1.5"
