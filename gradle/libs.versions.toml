@@ -8,7 +8,7 @@ build-android-desugar = "2.0.4"
 # Only necessary to override R8 version.
 # 8.6.11-dev had a bug that would fail R8 tasks. https://issuetracker.google.com/issues/347739663
 # AGP 8.7.1-dev fixed this so override is no longer necessary.
-build-kotlin = "2.0.0"
+build-kotlin = "2.0.10"
 build-kotlin-language = "2.0"
 build-kotlin-ksp = "2.0.0-1.0.22"
 build-kotlin-coroutines = "1.8.1"
