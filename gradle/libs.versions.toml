@@ -3,7 +3,7 @@ build-android-buildTools = "35.0.0-rc4"
 build-android-compileSdk = "34"
 build-android-minSdk = "27"
 build-android-targetSdk = "34"
-build-android-agp = "8.7.0-alpha03"
+build-android-agp = "8.7.0-alpha05"
 build-android-desugar = "2.0.4"
 # Only necessary to override R8 version.
 # 8.6.11-dev had a bug that would fail R8 tasks. https://issuetracker.google.com/issues/347739663
